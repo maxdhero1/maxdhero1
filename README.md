@@ -11,7 +11,7 @@ FACEBOOK:[Sunny Maxwell](https://web.facebook.com/max.agada)
  
 ## TECH TOOLBOX 
 <p>
-🌱 I’m currently learning the following Courses at <b>Dahel Techies</b>, an Online learning platform:
+🌱 I’m currently learning the following Courses at <b>Dahel Techies</b>, an Online learning platform and hopefully with hardwork and consistency, i will be proficient in usings tools below to achieve my career goals this year:
 </p>
 
 - Microsoft Excel
@@ -19,6 +19,6 @@ FACEBOOK:[Sunny Maxwell](https://web.facebook.com/max.agada)
 - Power Bi
 - Tableau
 
-👯 I’m looking forward to collaborate with serious minded and innovative individual who are interested in building the next generation software solution that can help industries such as banking, medical and real estate to be customer and business oriented after my study here
+👯 I’m looking forward to collaborate with serious minded and innovative individual who are interested in building the next generation software solution that can help industries such as financial, healthcare and real estate.
 [DAHELTECHIES]
 
