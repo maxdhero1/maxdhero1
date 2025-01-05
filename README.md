@@ -1,8 +1,8 @@
 👋 <b>Hello, i'm Maxwell</b>
 #### Aspiring Data analyst with <b>Dahel Techies</b>
 ## CONNECT WITH ME
-EMAIL:[maxdhero1@gmail.com] </br>
-LINKEDIN:[MAXWELL SUNDAY AGADA](https://www.linkedin.com/in/maxwell-agada-76217a155/) </br>
+<b>EMAIL:[maxdhero1@gmail.com]</b> </br>
+<b>LINKEDIN:[MAXWELL SUNDAY AGADA](https://www.linkedin.com/in/maxwell-agada-76217a155/)</b> </br>
 
 
 ## ABOUT ME
