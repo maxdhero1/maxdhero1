@@ -7,7 +7,7 @@ GITHUB:[Maxdhero1](https://github.com/maxdhero1)</br>
 FACEBOOK:[Sunny Maxwell](https://web.facebook.com/max.agada)
 
 ## ABOUT ME
- 🔭 I’m currently working as a customer service Engineer with NCR atleos where we help to design, build and troubleshoot </br>both <b>software and hardware solution </b> for financial, hospitality and aviation industry. More than 7 years experience in diagnosing and troubleshooting payment system
+ 🔭 I’m currently working as a customer service Engineer with NCR atleos where we help to design, build and troubleshoot </br>both <b>software</b> and<b> hardware </b> solution for financial, hospitality and aviation industry. More than 7 years experience in diagnosing and troubleshooting payment system
  
 ## TECH TOOLBOX 
 <p>
