@@ -3,7 +3,6 @@
 ## CONNECT WITH ME
 EMAIL:[maxdhero1@gmail.com] </br>
 LINKEDIN:[MAXWELL SUNDAY AGADA](https://www.linkedin.com/in/maxwell-agada-76217a155/) </br>
-GITHUB:[Maxdhero1](https://github.com/maxdhero1)</br>
 FACEBOOK:[Sunny Maxwell](https://web.facebook.com/max.agada)
 
 ## ABOUT ME
