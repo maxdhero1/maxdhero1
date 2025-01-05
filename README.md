@@ -3,7 +3,7 @@
 ## CONNECT WITH ME
 EMAIL:[maxdhero1@gmail.com] </br>
 LINKEDIN:[MAXWELL SUNDAY AGADA](https://www.linkedin.com/in/maxwell-agada-76217a155/) </br>
-FACEBOOK:[Sunny Maxwell](https://web.facebook.com/max.agada)
+
 
 ## ABOUT ME
  🔭 I’m currently working as a customer service Engineer with NCR atleos where we help to design, build and troubleshoot </br>both <b>software</b> and<b> hardware </b> solution for financial, hospitality and aviation industry. More than 7 years experience in diagnosing and troubleshooting payment system
