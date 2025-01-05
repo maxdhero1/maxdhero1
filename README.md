@@ -18,6 +18,6 @@ FACEBOOK:[Sunny Maxwell](https://web.facebook.com/max.agada)
 - Power Bi
 - Tableau
 
-👯 I’m looking forward to collaborate with serious minded and innovative individual who are interested in building the next generation software solution that can help industries such as financial, healthcare and real estate.
+👯 I’m looking forward to collaborate with serious minded and innovative individual who are interested in building the next generation software solution that can help industries such as financial, healthcare and real estate to leverage IT for profitability and customer focused.
 [DAHELTECHIES]
 
